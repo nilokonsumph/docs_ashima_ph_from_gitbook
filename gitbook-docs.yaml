@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: ashima admin
+  structure:
+    - type: space
+      key: space-1
+      title: ashima admin
+      path: ashima-admin
+      default: true
+      content:
+        directory: ./ashima-admin
+    - type: space
+      key: space-2
+      title: user guide
+      path: userguide
+      content:
+        directory: ./userguide
