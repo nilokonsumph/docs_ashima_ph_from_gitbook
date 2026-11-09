@@ -14,4 +14,4 @@ site:
       title: user guide
       path: userguide
       content:
-        directory: ./userguide
+        directory: null
