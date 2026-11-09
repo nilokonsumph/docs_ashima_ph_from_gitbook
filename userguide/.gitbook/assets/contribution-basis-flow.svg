@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 970" role="img" aria-labelledby="title desc">
+  <title id="title">How a contribution bundle builds a contribution basis</title>
+  <desc id="desc">Begin with basic pay, add the selected payroll-recognized earnings, subtract selected payroll-recognized tardiness, absence, or undertime adjustments, and floor the basis at zero. The applicable contribution method and table then determine the contribution amount. This flow applies when bundle-based calculation is enabled.</desc>
+  <rect width="720" height="970" rx="24" fill="#F7F9FC"/>
+  <text x="48" y="68" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" fill="#162033">How the bundle is used</text>
+  <text x="48" y="106" font-family="Inter, Arial, sans-serif" font-size="18" fill="#5D6B82">Illustrative flow when bundle-based calculation is enabled</text>
+
+  <rect x="48" y="145" width="624" height="106" rx="16" fill="#FFFFFF" stroke="#DFE7F2" stroke-width="2"/>
+  <circle cx="94" cy="198" r="24" fill="#ECE8FF"/>
+  <text x="94" y="207" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#4B44B8">1</text>
+  <text x="138" y="188" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700" fill="#162033">Start with basic pay</text>
+  <text x="138" y="220" font-family="Inter, Arial, sans-serif" font-size="18" fill="#5D6B82">Always included in a bundle</text>
+
+  <text x="360" y="288" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" fill="#4B44B8">+</text>
+  <rect x="48" y="313" width="624" height="125" rx="16" fill="#FFFFFF" stroke="#DFE7F2" stroke-width="2"/>
+  <circle cx="94" cy="375" r="24" fill="#ECE8FF"/>
+  <text x="94" y="384" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#4B44B8">2</text>
+  <text x="138" y="360" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700" fill="#162033">Add selected earnings</text>
+  <text x="138" y="394" font-family="Inter, Arial, sans-serif" font-size="18" fill="#5D6B82">For SSS: overtime, NSD, holiday premium,</text>
+  <text x="138" y="420" font-family="Inter, Arial, sans-serif" font-size="18" fill="#5D6B82">allowances, and other available categories</text>
+
+  <text x="360" y="476" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" fill="#4B44B8">−</text>
+  <rect x="48" y="501" width="624" height="125" rx="16" fill="#FFFFFF" stroke="#DFE7F2" stroke-width="2"/>
+  <circle cx="94" cy="563" r="24" fill="#ECE8FF"/>
+  <text x="94" y="572" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700" fill="#4B44B8">3</text>
+  <text x="138" y="548" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="700" fill="#162033">Subtract selected adjustments</text>
+  <text x="138" y="582" font-family="Inter, Arial, sans-serif" font-size="18" fill="#5D6B82">Payroll-recognized tardiness, absence,</text>
+  <text x="138" y="608" font-family="Inter, Arial, sans-serif" font-size="18" fill="#5D6B82">or undertime, only when selected</text>
+
+  <text x="360" y="663" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="30" font-weight="700" fill="#4B44B8">=</text>
+  <rect x="48" y="686" width="624" height="97" rx="16" fill="#ECE8FF" stroke="#4B44B8" stroke-width="2"/>
+  <text x="360" y="728" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="25" font-weight="700" fill="#162033">Contribution basis</text>
+  <text x="360" y="759" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" fill="#4B44B8">Cannot be less than zero</text>
+
+  <path d="M360 784 V820" stroke="#4B44B8" stroke-width="3" stroke-linecap="round"/>
+  <path d="m350 810 10 10 10-10" fill="none" stroke="#4B44B8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="48" y="824" width="624" height="100" rx="16" fill="#EEF3FA" stroke="#0C447C" stroke-width="2"/>
+  <text x="360" y="863" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#162033">Apply the contribution method and table</text>
+  <text x="360" y="895" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="18" fill="#0C447C">This produces the contribution amount</text>
+</svg>
